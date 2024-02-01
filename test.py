@@ -72,7 +72,7 @@ def confirm_exit():
     if result == 'yes':
         window.destroy()
 
-# Create a Tkinter window
+
 window = Tk()
 window.title("Tic-Tac-Toe")
 screen_width = window.winfo_screenwidth()
